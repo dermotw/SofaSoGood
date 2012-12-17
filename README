@@ -1,0 +1,5 @@
+Simple PHP class that exposes some of the main CouchDB API commands. Have a look at cdbCli.php
+for a demonstration of how to use it (as well as a CLI tool that's a little more convenient
+than having to use curl to do everything).
+
+Dermot Williams, October 2012
